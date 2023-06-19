@@ -2,10 +2,10 @@
 
 
 ## **Linear Regression with Python Scikit Learn**
-In this section we will see how the Python Scikit-Learn library for machine learning can be used to implement regression functions. We will start with simple linear regression involving two variables.
-
-## **Linear Regression with Python Scikit Learn**
-In this section we will see how the Python Scikit-Learn library for machine learning can be used to implement regression functions. We will start with simple linear regression involving two variables.
+- Predict the percentage of a student based on the no. of study hours.
+- This is a simple linear regression task as it involves just 2 variables.
+- You can use R, Python SAS Enterprise Miner or any other tool
+- Data can be found at http://bit.ly/w-data
 
 ## **Problem statement**
 In this regression task we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables.
